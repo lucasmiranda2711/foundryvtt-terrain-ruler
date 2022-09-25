@@ -2,7 +2,7 @@
 	"name": "terrain-ruler",
 	"title": "Terrain Ruler",
 	"description": "Adds a ruler tool that allows you to measure distances taking difficult terrain (provided by the terrain layer module) into account.",
-	"version": "1.6.2",
+	"version": "1.6.3",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 	"authors": [
@@ -40,7 +40,7 @@
 		}
 	],
 	"url": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler",
-	"download": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/archive/v1.6.2.zip",
+	"download": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/archive/v1.6.3.zip",
 	"manifest": "https://raw.githubusercontent.com/lucasmiranda2711/foundryvtt-terrain-ruler/master/module.json",
 	"readme": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/blob/master/README.md",
 	"changelog": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/blob/master/CHANGELOG.md",
