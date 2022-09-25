@@ -39,11 +39,11 @@
 			"manifest": "https://github.com/ironmonk88/enhanced-terrain-layer/releases/latest/download/module.json"
 		}
 	],
-	"url": "https://github.com/manuelVo/foundryvtt-terrain-ruler",
-	"download": "https://github.com/manuelVo/foundryvtt-terrain-ruler/archive/v1.6.0.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-terrain-ruler/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-terrain-ruler/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-terrain-ruler/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-terrain-ruler/issues",
+	"url": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler",
+	"download": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/archive/v1.6.1.zip",
+	"manifest": "https://raw.githubusercontent.com/lucasmiranda2711/foundryvtt-terrain-ruler/master/module.json",
+	"readme": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/blob/master/README.md",
+	"changelog": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/lucasmiranda2711/foundryvtt-terrain-ruler/issues",
 	"allowBugReporter": true
 }
