@@ -55,7 +55,7 @@ export function updateTerrainRulerState(newState) {
 function hookFunctions() {
 	libWrapper.register("terrain-ruler", "Canvas.prototype._onDragLeftStart", onDragLeftStart, "MIXED");
 	libWrapper.register("terrain-ruler", "Ruler.prototype._endMeasurement", endMeasurement, "WRAPPER");
-	libWrapper.register("terrain-ruler", "Ruler.prototype._highlightMeasurement", highlightMeasurement, "MIXED");
+	libWrapper.register("terrain-ruler", "RulerSegment.prototype.highlightMeasurement", highlightMeasurement, "MIXED");
 	libWrapper.register("terrain-ruler", "Ruler.prototype.toJSON", toJSON, "WRAPPER");
 	libWrapper.register("terrain-ruler", "Ruler.prototype.update", rulerUpdate, "WRAPPER");
 	libWrapper.register("terrain-ruler", "GridLayer.prototype.measureDistances", gridLayerMeasureDistances, "MIXED");
